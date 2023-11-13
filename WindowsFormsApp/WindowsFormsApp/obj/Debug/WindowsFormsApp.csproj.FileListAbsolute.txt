@@ -1,0 +1,15 @@
+E:\Tobeto\CSharp\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+E:\Tobeto\CSharp\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+E:\Tobeto\CSharp\WindowsFormsApp\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+E:\Tobeto\CSharp\WindowsFormsApp\WindowsFormsApp\bin\Debug\EntityFramework.dll
+E:\Tobeto\CSharp\WindowsFormsApp\WindowsFormsApp\bin\Debug\EntityFramework.SqlServer.dll
+E:\Tobeto\CSharp\WindowsFormsApp\WindowsFormsApp\bin\Debug\EntityFramework.xml
+E:\Tobeto\CSharp\WindowsFormsApp\WindowsFormsApp\bin\Debug\EntityFramework.SqlServer.xml
+E:\Tobeto\CSharp\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+E:\Tobeto\CSharp\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+E:\Tobeto\CSharp\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+E:\Tobeto\CSharp\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+E:\Tobeto\CSharp\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+E:\Tobeto\CSharp\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+E:\Tobeto\CSharp\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+E:\Tobeto\CSharp\WindowsFormsApp\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
